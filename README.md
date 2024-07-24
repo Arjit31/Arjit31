@@ -67,7 +67,7 @@ Feel free to connect with me on my coding profiles or drop me a message. Let's b
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjit31&hide_border=true" />
 </details>
 
 <details>
