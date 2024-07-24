@@ -12,14 +12,13 @@ In the realm of development, I've created some pretty neat projects. My Blog App
 
 When I'm not coding or studying, I enjoy working on personal projects and exploring new tech trends. You can check out my portfolio at my website and see what I've been up to. I'm always on the lookout for new challenges and opportunities to grow.
 
-Feel free to connect with me on my coding profiles or drop me a message. Let's build something awesome together!
+Feel free to connect. Buy me a coffee if you liked my work!
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://polite-bavarois-71c255.netlify.app/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Arjit+Khare;Full+stack+Dev;Web+Developer;Competetive+Programmer" />
-
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=I+am+Arjit+Khare;Fullstack+Web+Dev;Competetive+Programmer;Explorer+and+Learner" />
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with JS, TS, NextJS, etc.
