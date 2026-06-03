@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Arjit31.Arjit31&style=flat-square&color=0088cc)
 
-Hey there! I'm **Arjit Khare**, a final-year **B.Tech Computer Science & Engineering** student at **NIT Raipur**.  
+Hey there! I'm **Arjit Khare**, a final-year **B.Tech Computer Science & Engineering** graduate at **NIT Raipur** currently working at **Accenture** as a **software Enginner**.  
 I'm a **software engineer and full-stack developer** with a strong focus on **backend systems, real-time applications, and system design**.
 
 I enjoy building **scalable, event-driven systems** and have hands-on experience with **Node.js, Express.js, Kafka, PostgreSQL, MongoDB, and WebSockets**. I also actively participate in **competitive programming**, where I've developed strong problem-solving skills.
